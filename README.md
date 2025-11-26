@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaiza-sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="omaiza-sheikh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omaiza-sheikh" alt="omaiza-sheikh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omaiza-sheikh159" alt="omaiza-sheikh" /></a> </p>
 
 - 🌱 I’m currently learning **web and app develpomevt**
 
@@ -26,8 +26,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaiza-sheikh&show_icons=true&locale=en&layout=compact" alt="omaiza-sheikh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Omaiza-sheikh&show_icons=true&locale=en" alt="omaiza-sheikh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Omaiza-sheikh159&show_icons=true&locale=en" alt="omaiza-sheikh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omaiza-sheikh&" alt="omaiza-sheikh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omaiza-sheikh159&" alt="omaiza-sheikh" /></p>
 
-<img src=![Uploading image.png…]()>
+
